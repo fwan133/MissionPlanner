@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>UAV Flight Mission Planning</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2020\LaptopRevitCommands.dll</Assembly>
+    <AddInId>AC43EA94-C0F3-4971-A2B1-39C89A553F39</AddInId>
+    <FullClassName>LaptopRevitCommands.FMP_Application</FullClassName>
+    <VendorId>JerryWang</VendorId>
+    <VendorDescription>the University of Auckland</VendorDescription>
+  </AddIn>
+</RevitAddIns>

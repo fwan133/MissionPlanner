@@ -1,0 +1,46 @@
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.pdb
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.pdb
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.addin
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.addin
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\LaptopRevitCommands.pdb
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\EPPlus.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\System.ComponentModel.Annotations.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\EPPlus.xml
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csprojAssemblyReference.cache
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.CoreCompileInputs.cache
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.CopyComplete
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.pdb
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Properties.Resources.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.GenerateResource.cache
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.DigitalCameraModelDialog.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\EPPlus.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\System.ComponentModel.Annotations.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\EPPlus.xml
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.CopyComplete
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.ImageConfiParaDialog.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Properties.Resources.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.DigitalCameraModelDialog.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.ImageConfiParaDialog.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csproj.GenerateResource.cache
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.ProgressDialog.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.UAVSafetyZoneDialog.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.ProgressDialog.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.UAVSafetyZoneDialog.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\en-NZ\LaptopRevitCommands.resources.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.MoveAndRotateElement.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.UAVSafetyZoneDialog.en-NZ.resources
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\en-NZ\LaptopRevitCommands.resources.dll
+D:\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.csprojAssemblyReference.cache
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\bin\Debug\en-NZ\LaptopRevitCommands.resources.dll
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.MoveAndRotateElement.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\LaptopRevitCommands.Views.UAVSafetyZoneDialog.en-NZ.resources
+D:\onedrive-the university of auckland\OneDrive - The University of Auckland\Building Information Modeling (BIM)\Code\IExternalCommond\LaptopRevitCommands\obj\Debug\en-NZ\LaptopRevitCommands.resources.dll
